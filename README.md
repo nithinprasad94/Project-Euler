@@ -4,4 +4,5 @@ This project contains solutions to problems found on Project Euler: https://proj
 
 Solution Authors: Aditya Nair, Nithin Ganesh Prasad.
 
-Latest Problem Solved: None at all.
+Latest Problem Solved: 20
+
